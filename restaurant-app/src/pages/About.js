@@ -8,6 +8,7 @@ const About = () => {
       my:15,
       textAlign: "center",
       p:2,
+      backgroundColor: "whitesmoke",
       "& h4": {
         fontWeight: "bold",
         my:2,
